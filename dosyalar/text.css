@@ -22,42 +22,20 @@ p {
     transform: translate(-50%,-50%);
     color: white;
 }
-.ana {
-    position: absolute;
-    left: 50%;
-    top: 50%;
-    transform: translate(-50%,-50%);
-    margin: auto;
-    text-align: center;
-    align-items: center
+.asdbtn{
+    color: rebeccapurple;
+    text-decoration: none;
+    margin-right: 10px;
+    font-size: 16px
+  
 }
-
+.asdbtn:hover{
+    color: darkred;
+}
 .btn {
     box-shadow: none !important;
-    text-shadow: 1px 1px 4px #fff
+    text-shadow: 1px 1px 4px #fff;
 }
-
-.asdbtn, .asdbtn:disabled {
-    text-align: center;
-    background-color: transparent !important;
-    background-repeat: no-repeat;
-    border: none !important;
-    box-shadow: none;
-    border-radius: 20px;
-    align-items: center;
-    align-content: center;
-    color: #fff !important;
-    font-size: 16px
-}
-
-    .asdbtn.disabled, .asdbtn:disabled {
-        opacity: .3 !important
-    }
-
-    .asdbtn:hover {
-        color: #609 !important
-    }
-
 h1 {
     font-family: 'Noto Sans', sans-serif;
     padding: 30px;
