@@ -32,11 +32,7 @@ p {
         color: darkred;
         text-shadow: 1px 1px 4px     
     }
-.asdbtn {
-    font: 80px 'Oswald', serif;
-    color: #fff;
-    text-shadow: 0 0 5px #fff, 0 0 10px #fff, 0 0 15px #fff, 0 0 20px #ff2d95, 0 0 30px #ff2d95, 0 0 40px #ff2d95, 0 0 50px #ff2d95, 0 0 75px #ff2d95;
-}
+    .asdbtn{}
 .btn {
     box-shadow: none !important;
     text-shadow: 1px 1px 4px #fff;
